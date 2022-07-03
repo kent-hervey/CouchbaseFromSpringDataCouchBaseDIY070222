@@ -1,4 +1,4 @@
-package com.hervey.CouchbaseFromSpringDataCouchBaseDIY070222;
+package com.hervey.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
